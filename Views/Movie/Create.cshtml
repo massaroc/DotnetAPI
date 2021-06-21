@@ -1,0 +1,12 @@
+@model DotnetMovieAPI.Models.Movie
+
+<form asp-action="Create">
+    <fieldset class="movie-form">
+        <h2>Submit a movie</h2>
+        @Html.TextAreaFor(m=>m.Title)
+        @Html.TextAreaFor(m=>m.Year)
+        @Html.TextAreaFor(m=>m.Genre)
+        @Html.TextAreaFor(m=>m.Summary)
+        <input type="submit" name="Create" />
+    </fieldset>
+</form>

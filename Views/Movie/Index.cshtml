@@ -1,0 +1,19 @@
+@model IEnumerable<DotnetMovieAPI.Models.Movie>
+
+<h1>List of Movies</h1>
+
+    @foreach (var mov in Model)
+    {
+        <div class="movie">
+            <span>Title: @mov.Title</span>
+            <span>Genre: @mov.Genre</span>
+            <span>Year: @mov.Year</span>
+            <div>
+                Summary: @mov.Summary
+            </div>
+            <a asp-action="Edit" asp-route-id="@mov.Id">edit</a>
+            <a asp-action="Delete" asp-route-id="@mov.Id">delete</a>
+        </div>
+    }
+<hr/>
+<a class="create" asp-action="Create">Add new movie</a>
