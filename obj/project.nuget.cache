@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Y/NrxFoJ/1em+/jX9epjffl8e3kFQzBHm6+PBnbvxR4/DKYSO3wfaDR5ewKFRLFEO8AzTzmIfOAdaaB4LP0Mg==",
+  "dgSpecHash": "sijY9UgqU9qUee49a9L7lNL30vOPE3R3W0CQclaZ0nf5cu7msdAqnrqK5aMwttpSBUuy8prmxWuBjn3lVW67Xg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Connor\\Dotnet_API\\DotnetMovieAPI.csproj",
+  "projectFilePath": "C:\\Users\\Connor\\DotnetAPI\\DotnetMovieAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Connor\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\Connor\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\3.1.4\\microsoft.aspnetcore.authentication.openidconnect.3.1.4.nupkg.sha512",

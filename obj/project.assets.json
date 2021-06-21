@@ -6666,11 +6666,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Connor\\Dotnet_API\\DotnetMovieAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Connor\\DotnetAPI\\DotnetMovieAPI.csproj",
       "projectName": "DotnetMovieAPI",
-      "projectPath": "C:\\Users\\Connor\\Dotnet_API\\DotnetMovieAPI.csproj",
+      "projectPath": "C:\\Users\\Connor\\DotnetAPI\\DotnetMovieAPI.csproj",
       "packagesPath": "C:\\Users\\Connor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Connor\\Dotnet_API\\obj\\",
+      "outputPath": "C:\\Users\\Connor\\DotnetAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
